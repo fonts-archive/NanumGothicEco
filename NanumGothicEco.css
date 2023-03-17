@@ -2,17 +2,17 @@
     font-family: 'Nanum Gothic Eco';
     font-weight: 400;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicEco.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.otf');
 }
 @font-face {
     font-family: 'Nanum Gothic Eco';
     font-weight: 700;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicEcoBold.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEcoBold.otf');
 }
 @font-face {
     font-family: 'Nanum Gothic Eco';
     font-weight: 800;
     font-style: normal;
-    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothic/NanumGothicEcoExtraBold.otf');
+    src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEcoExtraBold.otf');
 }
