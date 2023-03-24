@@ -1,6 +1,6 @@
 # Nanum Gothic Eco
 
-[Visit Source](https://hangeul.naver.com/font) · [Download Font Family](https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.zip)
+[Visit Source](https://hangeul.naver.com/font)
 
 &nbsp;
 
@@ -15,7 +15,7 @@ font-family: 'Nanum Gothic Eco';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css"/>
+<link rel="stylesheet" href="https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css"/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css');
+@import url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css
+https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css
 ```
