@@ -4,6 +4,7 @@
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nanum Gothic Eco';
@@ -11,6 +12,7 @@
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEcoBold.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEcoBold.ttf') format('truetype');
 }
 @font-face {
     font-family: 'Nanum Gothic Eco';
@@ -18,4 +20,5 @@
     font-style: normal;
     font-display: swap;
     src: url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEcoExtraBold.otf') format('opentype'),
+         url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEcoExtraBold.ttf') format('truetype');
 }
