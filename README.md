@@ -15,7 +15,7 @@ font-family: 'Nanum Gothic Eco';
 link
 
 ```
-<link rel='stylesheet' href='https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css'/>
+<link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css'/>
 ```
 
 &nbsp;
@@ -23,7 +23,7 @@ link
 import
 
 ```
-@import url('https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css');
+@import url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css');
 ```
 
 &nbsp;
@@ -31,5 +31,5 @@ import
 URL
 
 ```
-https://cdn.statically.io/gh/fonts-archive/NanumGothicEco/main/NanumGothicEco.css
+https://cdn.jsdelivr.net/gh/fonts-archive/NanumGothicEco/NanumGothicEco.css
 ```
